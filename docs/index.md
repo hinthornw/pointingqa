@@ -12,19 +12,20 @@ Visual Question Answering (VQA) has become one of the key benchmarks of visual r
 
 ## Citation
 
-TODO: Add arxiv information
-
 ```
 @article{mani2020point,
-title={Point and Ask: Incorporating Pointing into Visual Question Answering},
-author={Mani, Arjun and Hinthorn, William and Yoo, Nobline and Russakovsky, Olga},
-year={2020}
+         title={Point and Ask: Incorporating Pointing into Visual Question Answering},
+         author={Mani, Arjun and Hinthorn, William and Yoo, Nobline and Russakovsky, Olga},
+         year={2020},
+         eprint={2011.13681},
+         archivePrefix={arXiv},
+         primaryClass={cs.CV}
 }
 ```
 
 ## Links
 
-- [Paper](#TODO)
+- [Paper](https://arxiv.org/abs/2011.13681)
 - [Code](https://github.com/princetonvisualai/pointingqa)
 - [Local-QA Data](#TODO)
 - [Intent-QA Data](#TODO)
